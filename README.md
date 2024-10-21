@@ -1,6 +1,10 @@
 # Netflix-Clone-Using-HTML-CSS
 Netflix Clone Using HTML &amp; CSS
 
+**Live**:
+   ```bash
+   visit  https://mdmohsinhaider.github.io/Netflix-Clone-Using-HTML-CSS/
+
 # Netflix Clone
 
 This project is a simple Netflix clone built using **HTML** and **CSS**. The goal of the project is to replicate the user interface of the Netflix homepage, including the header, hero section, and trending movie section.
