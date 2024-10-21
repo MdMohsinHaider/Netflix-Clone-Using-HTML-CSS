@@ -43,6 +43,6 @@ This project is a simple Netflix clone built using **HTML** and **CSS**. The goa
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/MdMohsinHaider/Netflix-Clone-Using-HTML-CSS.git
 ## Navigate to the project folder:
 cd netflix-clone
